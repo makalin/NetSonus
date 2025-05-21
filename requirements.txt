@@ -1,0 +1,5 @@
+pyaudio>=0.2.13
+sounddevice>=0.4.6
+numpy>=1.24.0
+netifaces>=0.11.0
+PyQt6>=6.5.0  # For future GUI implementation 
