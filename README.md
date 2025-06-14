@@ -212,3 +212,7 @@ MIT — use freely, modify boldly.
 * Fork, improve, and submit PRs
 * Ideas welcome in Issues or Discussions
 * GUI and mobile contributions highly appreciated!
+
+---
+
+Stream Sound, Seamlessly Connected – NetSonus.
